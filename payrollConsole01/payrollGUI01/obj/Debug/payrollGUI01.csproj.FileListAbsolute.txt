@@ -1,0 +1,11 @@
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollGUI01\bin\Debug\payrollGUI01.exe.config
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollGUI01\bin\Debug\payrollGUI01.exe
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollGUI01\bin\Debug\payrollGUI01.pdb
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollGUI01\obj\Debug\payrollGUI01.csproj.AssemblyReference.cache
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollGUI01\obj\Debug\payrollGUI01.csproj.SuggestedBindingRedirects.cache
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollGUI01\obj\Debug\payrollGUI01.Form1.resources
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollGUI01\obj\Debug\payrollGUI01.Properties.Resources.resources
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollGUI01\obj\Debug\payrollGUI01.csproj.GenerateResource.cache
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollGUI01\obj\Debug\payrollGUI01.csproj.CoreCompileInputs.cache
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollGUI01\obj\Debug\payrollGUI01.exe
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollGUI01\obj\Debug\payrollGUI01.pdb

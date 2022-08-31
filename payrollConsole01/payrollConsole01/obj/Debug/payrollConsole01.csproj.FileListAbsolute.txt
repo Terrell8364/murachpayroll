@@ -1,0 +1,8 @@
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollConsole01\bin\Debug\payrollConsole01.exe.config
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollConsole01\bin\Debug\payrollConsole01.exe
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollConsole01\bin\Debug\payrollConsole01.pdb
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollConsole01\obj\Debug\payrollConsole01.csproj.AssemblyReference.cache
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollConsole01\obj\Debug\payrollConsole01.csproj.SuggestedBindingRedirects.cache
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollConsole01\obj\Debug\payrollConsole01.csproj.CoreCompileInputs.cache
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollConsole01\obj\Debug\payrollConsole01.exe
+C:\Users\terre\OneDrive\Desktop\murach payroll\payrollConsole01\payrollConsole01\obj\Debug\payrollConsole01.pdb
